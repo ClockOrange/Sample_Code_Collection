@@ -1,6 +1,6 @@
 # Sample_Code_Collection
-###
-- Web Application project 
+
+### Web Application project 
 - https://github.com/ClockOrange/CS225Proj
 
 ### PSID_data_cleaning
